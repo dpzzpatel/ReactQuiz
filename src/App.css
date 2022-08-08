@@ -35,12 +35,15 @@
 
 }
 #quizcontainer div{
-  font-size: calc(1px +1vmin);
+  font-size: calc(10px +1vmin);
 }
 .questioninfo{
   font-weight: bold;
   color:darkgray;
-  font-size: 12px;
+  font-size: 14px;
+}
+.result{
+  color:red;
 }
 
 @keyframes App-logo-spin {
