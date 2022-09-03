@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-size: 16px;
 }
 
 .App-logo {
@@ -35,7 +36,7 @@
 
 }
 #quizcontainer div{
-  font-size: calc(10px +1vmin);
+  font-size: calc(10px +2vmin);
 }
 .questioninfo{
   font-weight: bold;
